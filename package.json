@@ -1,7 +1,7 @@
 {
-  "name": "json-bigint",
+  "name": "@cardanosolutions/json-bigint",
   "version": "1.0.0",
-  "description": "JSON.parse with bigints support",
+  "description": "JSON.parse with bigint support and correct handling of scientific notation",
   "main": "index.js",
   "files": [
     "index.js",
@@ -23,6 +23,9 @@
     "json"
   ],
   "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "contributors": [
+    "Matthias Benkort"
+  ],
   "license": "MIT",
   "dependencies": {
     "bignumber.js": "^9.0.0"
