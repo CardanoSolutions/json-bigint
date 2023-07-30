@@ -1,6 +1,6 @@
 {
   "name": "@cardanosolutions/json-bigint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON.parse with bigint support and correct handling of scientific notation",
   "main": "index.js",
   "files": [
